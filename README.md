@@ -6,7 +6,7 @@ Mini proyecto en Node.js para practicar consumo de APIs REST. Muestra el clima a
 1. Cloná el repo:
 ```bash
 git clone TU_URL_DEL_REPO
-cd nombre-del-repo ```
+cd nombre-del-repo 
 
 2. Instala las dependencias
 npm install
